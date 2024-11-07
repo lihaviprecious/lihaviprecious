@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lihaviprecious
 - 👀 I’m interested in wide range of tools and resources to enable me in coding
 - 🌱 I’m currently learning at cuk
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on codebases with others
 - 📫 How to reach me lihaviprecious14@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:vibe
